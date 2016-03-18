@@ -430,6 +430,9 @@ h1.navbar-brand {
     margin: 30px auto;
 }
 
+.big-paragraph {
+    font-size: 20px;
+}
 
 
 .fancybox-item.fancybox-close {
